@@ -1,0 +1,14 @@
+C:\Users\Maksim Bukhalo\source\repos\GUI\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+C:\Users\Maksim Bukhalo\source\repos\GUI\GUI\obj\Debug\GUI.Exercise1.resources
+C:\Users\Maksim Bukhalo\source\repos\GUI\GUI\obj\Debug\GUI.Exercise2.resources
+C:\Users\Maksim Bukhalo\source\repos\GUI\GUI\obj\Debug\GUI.Form1.resources
+C:\Users\Maksim Bukhalo\source\repos\GUI\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\Maksim Bukhalo\source\repos\GUI\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\Maksim Bukhalo\source\repos\GUI\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Maksim Bukhalo\source\repos\GUI\GUI\bin\Debug\GUI.exe
+C:\Users\Maksim Bukhalo\source\repos\GUI\GUI\bin\Debug\GUI.pdb
+C:\Users\Maksim Bukhalo\source\repos\GUI\GUI\obj\Debug\GUI.exe
+C:\Users\Maksim Bukhalo\source\repos\GUI\GUI\obj\Debug\GUI.pdb
+C:\Users\Maksim Bukhalo\source\repos\GUI\GUI\obj\Debug\GUI.Exercise3.resources
+C:\Users\Maksim Bukhalo\source\repos\GUI\GUI\obj\Debug\GUI.Exercise_4.BaseForm.resources
+C:\Users\Maksim Bukhalo\source\repos\GUI\GUI\obj\Debug\GUI.Exercise_4.ChildForm.resources
