@@ -12,3 +12,4 @@ C:\Users\Maksim Bukhalo\source\repos\GUI\GUI\obj\Debug\GUI.pdb
 C:\Users\Maksim Bukhalo\source\repos\GUI\GUI\obj\Debug\GUI.Exercise3.resources
 C:\Users\Maksim Bukhalo\source\repos\GUI\GUI\obj\Debug\GUI.Exercise_4.BaseForm.resources
 C:\Users\Maksim Bukhalo\source\repos\GUI\GUI\obj\Debug\GUI.Exercise_4.ChildForm.resources
+C:\Users\Maksim Bukhalo\source\repos\GUI\GUI\bin\Debug\GUI.exe.config
